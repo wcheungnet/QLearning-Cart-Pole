@@ -3,4 +3,5 @@
 
 
 Credit goes to:
-(https://keon.io/deep-q-learning/)[https://keon.io/deep-q-learning/]
+
+[https://keon.io/deep-q-learning/](https://keon.io/deep-q-learning/)
